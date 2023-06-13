@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240836727302",
+    "project_id": "kisiselgelisim-c3961",
+    "storage_bucket": "kisiselgelisim-c3961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240836727302:android:3ef100356cb9dfaff76987",
+        "android_client_info": {
+          "package_name": "com.example.kiiselgeliimasistan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240836727302-i892nu5g4ddq1eedguk247mdj2grc38c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kiiselgeliimasistan",
+            "certificate_hash": "3956243f75ada648f7fa5194ed19490da106e346"
+          }
+        },
+        {
+          "client_id": "240836727302-mpkk0q46ftt9n8t62oto6sghjngl4s5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6boYwiBcru1fiAh-3fXwZCF9wmEqyJc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240836727302-mpkk0q46ftt9n8t62oto6sghjngl4s5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

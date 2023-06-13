@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KişiselGelişimAsistanı" parent="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge">
+        <item name="colorPrimary">#ff7200</item>
+        <item name="colorPrimaryVariant">#ff7200</item>
+        <item name="colorSecondary">#ff7200</item>
+    </style>
+
+    <style name="Theme.KişiselGelişimAsistanı" parent="Base.Theme.KişiselGelişimAsistanı" />
+</resources>
